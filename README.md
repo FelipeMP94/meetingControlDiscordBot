@@ -1,5 +1,5 @@
 # MeetingControlDiscordBot
-Um bot de Discord para controlar o tempo de falas em reuniões
+A Discord bot to control the speech time in meetings
 
 #Features:
 Here some of the comands.
